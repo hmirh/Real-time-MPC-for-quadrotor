@@ -11,7 +11,6 @@ If you use this code in an academic context, please cite the following works:
   year = {2023}
 }
 
-```bibtex
 @InProceedings{Mirhajian_2024_ICUAS,
   author = {Hengameh Mirhajianmoghadam, Nicholas Grijalva, and Luis Rodolfo Garcia Carrillo},
   title = {Fast trajectory tracking for commercial off-the-shelf UAS using Model Predictive Control: real-time implementation and performance analysis},
