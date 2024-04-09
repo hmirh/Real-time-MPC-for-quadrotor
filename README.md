@@ -1,4 +1,5 @@
-# Real-time-implementation-of-model-predicitve-control-on-quadrotor
+
+# Fast trajectory tracking for commercial UAS using Real-time implementation of Model Predictive Control
 
 If you use this code in an academic context, please cite the following works:
 
